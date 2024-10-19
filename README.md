@@ -2,11 +2,13 @@
 Small bash script to install VoodooHDA.
 
 ### How To Use
-- Run the command below via terminal
+1. Run the command below via terminal
 
 ```curl -sL https://raw.githubusercontent.com/alvindimas05/VoodooHDAInstaller/refs/heads/main/install.sh | bash```
-- Allow permission on <b>Settings > Privacy & Security</b>
+2. Allow permission on <b>Settings > Privacy & Security</b>
 ![Permission](permission.png)
+
+3. Reboot your machine.
 
 ### Fix for Mic is showing but not getting any input (AMD/Intel)
 
