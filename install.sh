@@ -20,4 +20,5 @@ sudo rm -rf /Library/Preferences/VoodooHDA.prefPane
 sudo cp -R VoodooHDA.kext /Library/Extensions
 sudo cp -R VoodooHDA.prefPane /Library/Preferences
 
+echo "Make sure to allow the permission on Settings > Privacy & Security"
 echo "Make sure to remove AppleALC before doing a reboot."
