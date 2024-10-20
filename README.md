@@ -2,14 +2,14 @@
 Small bash script to install VoodooHDA.
 
 ### Installation
-Run the command below via terminal
+- Run the command below via terminal
 
 ```curl -sL https://raw.githubusercontent.com/alvindimas05/VoodooHDAInstaller/refs/heads/main/install.sh | bash```
 
-Allow permission on <b>Settings > Privacy & Security</b>
+- Allow permission on <b>Settings > Privacy & Security</b>
 ![Permission](permission.png)
 
-Reboot your machine.
+- Reboot your machine.
 
 ### Uninstall
 Run the command below to uninstall
