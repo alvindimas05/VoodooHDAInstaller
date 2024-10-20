@@ -15,10 +15,10 @@ sudo spctl --master-disable
 sudo xattr -c VoodooHDA.kext
 
 sudo rm -rf /Library/Extensions/VoodooHDA.kext
-sudo rm -rf /Library/Preferences/VoodooHDA.prefPane
+sudo rm -rf /Library/PreferencePanes/VoodooHDA.prefPane
 
 sudo cp -R VoodooHDA.kext /Library/Extensions
-sudo cp -R VoodooHDA.prefPane /Library/Preferences
+sudo cp -R VoodooHDA.prefPane /Library/PreferencePanes
 
 echo "Make sure to allow the permission on Settings > Privacy & Security."
 echo "Make sure to remove AppleALC before doing a reboot."
